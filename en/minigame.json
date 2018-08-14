@@ -1,7 +1,7 @@
 {
   "minigame.board.map": "Map: §a$name",
   "minigame.board.need_to_start": "Need to start: §e$count",
-  "minigame.board.players": "Players §e$count/$max",
+  "minigame.board.players": "Players: §e$count/$max",
   "minigame.board.timer": "Start in: §a$time",
   "minigame.board.waiting": "Waiting for players...",
   "minigame.end_message": "           Winners:\n     §e1 Place §8- $first §8- §6$value.first\n     §62 Place §8- $second §8- §6$value.second\n     §c3 Place §8- $third §8- §6$value.third\n\n     §6You typed $value points §e($place place)",
