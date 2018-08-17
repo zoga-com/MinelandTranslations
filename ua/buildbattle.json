@@ -1,0 +1,21 @@
+{
+  "buildbattle.board.builder": "§7Будівник",
+  "buildbattle.board.theme": "§7Тема",
+  "buildbattle.board.time_end": "§eЧас вийшов!",
+  "buildbattle.board.timer": "§7Час",
+  "buildbattle.board.vote": "§7Голос",
+  "buildbattle.floor_changed": "§aПідлогу змінено",
+  "buildbattle.gui.floor_changer.title": "§8Покладіть блоки підлоги",
+  "buildbattle.gui.options.change_floor": "§aЗмінити підлогу\n§7Нажміть, щоб змінити підлогу",
+  "buildbattle.gui.options.title": "§8Меню будівника",
+  "buildbattle.option_star": "§eМеню будівника",
+  "buildbattle.title.minute_left": "\n§6Залишилась 1 хвилина",
+  "buildbattle.title.time_left": "\nЗалишилось $minutes хвилин",
+  "buildbattle.title.time_out": "\n§eЧас вийшов!",
+  "buildbattle.vote.epic": "§5§lЕПІЧНО",
+  "buildbattle.vote.good": "§2§lЧУДОВО",
+  "buildbattle.vote.legendary": "§6§lЛЕГЕНДАРНО",
+  "buildbattle.vote.none": "Без голосу",
+  "buildbattle.vote.normal": "§a§lНОРМАЛЬНО",
+  "buildbattle.vote.super_poop": "§c§lПОГАНО"
+}
