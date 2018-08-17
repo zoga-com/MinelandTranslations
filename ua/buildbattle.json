@@ -9,7 +9,6 @@
   "buildbattle.gui.options.change_floor": "§aЗмінити підлогу\n§7Нажміть, щоб змінити підлогу",
   "buildbattle.gui.options.title": "§8Меню будівника",
   "buildbattle.option_star": "§eМеню будівника",
-  "buildbattle.theme.church": "Church",
   "buildbattle.title.minute_left": "\n§6Залишилась 1 хвилина",
   "buildbattle.title.time_left": "\nЗалишилось $minutes хвилин",
   "buildbattle.title.time_out": "\n§eЧас вийшов!",
