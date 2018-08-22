@@ -26,6 +26,8 @@
   "minigame.team.red": "Красный",
   "minigame.team.white": "Белый",
   "minigame.team.yellow": "Жёлтый",
+  "minigame.title.defeat": "§cПоражение\n$message",
+  "minigame.title.victory": "§aПобеда\n$message",
   "minigame.will_start_in": "§6$minigame §8| §fИгра начнётся через §a$seconds§f...",
   "minigame.will_start_in_seconds": "§6$minigame §8| §fИгра начнётся через §a$seconds §fсекунд"
 }
