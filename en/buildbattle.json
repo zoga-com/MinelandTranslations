@@ -17,5 +17,6 @@
   "buildbattle.vote.legendary": "§6§lLEGENDARY",
   "buildbattle.vote.none": "No vote",
   "buildbattle.vote.normal": "§a§lGOOD",
-  "buildbattle.vote.super_poop": "§c§lBAD"
+  "buildbattle.vote.poop": "§c§lBAD",
+  "buildbattle.vote.super_poop": "§4§lVERY BAD"
 }
