@@ -5,7 +5,7 @@
   "bedwars.currency.gold_ingot": "Золото",
   "bedwars.currency.iron_ingot": "Железо",
   "bedwars.gui.item_shop": "§8Магазин",
-  "bedwars.gui.shop.buy_item": "$name_color$item_name\n$description\n\n§7Стоимость: $price $currency\n\n$buy_message",
+  "bedwars.gui.shop.buy_item": "$name_color$item_name$description\n§7Стоимость: $price $currency\n\n$buy_message",
   "bedwars.gui.shop.cant_buy": "§cВы не можете это купить",
   "bedwars.gui.shop.category.armor": "§aБроня",
   "bedwars.gui.shop.category.blocks": "§aБлоки",
