@@ -12,11 +12,11 @@
   "buildbattle.title.minute_left": "\n§6Осталась 1 минута",
   "buildbattle.title.time_left": "\nОсталось $minutes минуты",
   "buildbattle.title.time_out": "\n§eВремя вышло!",
-  "buildbattle.vote.super_poop": "§4§lУЖАСНО",
-  "buildbattle.vote.poop": "§c§lПЛОХО",
-  "buildbattle.vote.normal": "§a§lНОРМАЛЬНО",
-  "buildbattle.vote.good": "§2§lОТЛИЧНО",
   "buildbattle.vote.epic": "§5§lЭПИК",
+  "buildbattle.vote.good": "§2§lОТЛИЧНО",
   "buildbattle.vote.legendary": "§6§lЛЕГЕНДАРНО",
-  "buildbattle.vote.none": "Без голоса"
+  "buildbattle.vote.none": "Без голоса",
+  "buildbattle.vote.normal": "§a§lНОРМАЛЬНО",
+  "buildbattle.vote.poop": "§c§lПЛОХО",
+  "buildbattle.vote.super_poop": "§4§lУЖАСНО"
 }

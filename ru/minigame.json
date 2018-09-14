@@ -10,6 +10,7 @@
   "minigame.gui.select_team.empty": "$team [$count/$max]\n§7Нет игроков",
   "minigame.gui.select_team.players": "$team [$count/$max]\n§7Игроки:\n$players",
   "minigame.join_message": "§6$minigame §8| §r$player §rзашёл в игру (§a$online§f/§a$max§f)",
+  "minigame.quit": "§eQuit\n§7Use this item,\n§7to leave game",
   "minigame.quit_message": "§6$minigame §8| §r$player §rвышел из игры (§c$online§f/§a$max§f)",
   "minigame.select_team": "§eВыбор команды\n§7Используйте этот предмет,\n§7чтобы выбрать свою команду",
   "minigame.start_message": "            §6§l$minigame_name\n            $mode_name",
