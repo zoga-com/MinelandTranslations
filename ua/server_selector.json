@@ -4,7 +4,7 @@
   "server_selector.gui.server": "§b$server_name\n§8$description\n\n§8$current_online\n\n§8$click_to_play",
   "server_selector.gui.title": "§8Game selection",
   "server_selector.item": "§aGame Menu\n§7Allows you to select\n§7game you want to play on",
-  "server_selector.server.bed_wars_team": "server_selector.server.bed_wars_team:MESSAGE_NOT_FOUND",
-  "server_selector.server.build_battle_solo": "server_selector.server.build_battle_solo:MESSAGE_NOT_FOUND",
-  "server_selector.server.sky_wars_solo": "server_selector.server.sky_wars_solo:MESSAGE_NOT_FOUND"
+  "server_selector.server.bed_wars": "server_selector.server.bed_wars:MESSAGE_NOT_FOUND",
+  "server_selector.server.build_battle": "server_selector.server.build_battle:MESSAGE_NOT_FOUND",
+  "server_selector.server.sky_wars": "server_selector.server.sky_wars:MESSAGE_NOT_FOUND"
 }

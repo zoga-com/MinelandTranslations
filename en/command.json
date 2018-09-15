@@ -1,5 +1,6 @@
 {
   "command.gm.changed": "§aGamemode updated to $gamemode",
   "command.gm.creative": "§rCREATIVE",
+  "command.gm.spectator": "§rSPECTATOR",
   "command.gm.survival": "§rSURVIVAL"
 }
