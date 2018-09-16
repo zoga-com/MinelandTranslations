@@ -4,7 +4,12 @@
   "server_selector.gui.server": "§b$server_name\n§8$description\n\n§8$current_online\n\n§8$click_to_play",
   "server_selector.gui.title": "§8Game selection",
   "server_selector.item": "§aGame Menu\n§7Allows you to select\n§7game you want to play on",
+  "server_selector.server.anni": "server_selector.server.anni:MESSAGE_NOT_FOUND",
   "server_selector.server.bed_wars": "server_selector.server.bed_wars:MESSAGE_NOT_FOUND",
   "server_selector.server.build_battle": "server_selector.server.build_battle:MESSAGE_NOT_FOUND",
-  "server_selector.server.sky_wars": "server_selector.server.sky_wars:MESSAGE_NOT_FOUND"
+  "server_selector.server.creative_plus": "server_selector.server.creative_plus:MESSAGE_NOT_FOUND",
+  "server_selector.server.prison": "server_selector.server.prison:MESSAGE_NOT_FOUND",
+  "server_selector.server.sky_block": "server_selector.server.sky_block:MESSAGE_NOT_FOUND",
+  "server_selector.server.sky_wars": "server_selector.server.sky_wars:MESSAGE_NOT_FOUND",
+  "server_selector.server.survival_plus": "server_selector.server.survival_plus:MESSAGE_NOT_FOUND"
 }

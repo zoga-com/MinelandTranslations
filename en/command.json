@@ -1,6 +1,8 @@
 {
+  "command.gm.adventure": "§rADVENTURE",
   "command.gm.changed": "§aGamemode updated to $gamemode",
   "command.gm.creative": "§rCREATIVE",
   "command.gm.spectator": "§rSPECTATOR",
-  "command.gm.survival": "§rSURVIVAL"
+  "command.gm.survival": "§rSURVIVAL",
+  "command.module.reloaded": "§aModule \u0027$module\u0027 successfully reloaded"
 }
