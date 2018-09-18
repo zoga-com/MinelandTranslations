@@ -1,9 +1,9 @@
 {
-  "server_selector.gui.click_to_play": "Click to connect",
-  "server_selector.gui.current_online": "Current online $online players",
+  "server_selector.gui.click_to_play": "Нажмите, чтобы подключится",
+  "server_selector.gui.current_online": "Сейчас играет $online игроков",
   "server_selector.gui.server": "§b$server_name\n§8$description\n\n§8$current_online\n\n§8$click_to_play",
-  "server_selector.gui.title": "§8Game selection",
-  "server_selector.item": "§aGame Menu\n§7Allows you to select\n§7game you want to play on",
+  "server_selector.gui.title": "§8Выбор игры",
+  "server_selector.item": "§aИгровые режимы\n§7Позволяет выбрать игру\n§7на которой хотите сыграть",
   "server_selector.server.anni": "server_selector.server.anni:MESSAGE_NOT_FOUND",
   "server_selector.server.bed_wars": "server_selector.server.bed_wars:MESSAGE_NOT_FOUND",
   "server_selector.server.build_battle": "server_selector.server.build_battle:MESSAGE_NOT_FOUND",
