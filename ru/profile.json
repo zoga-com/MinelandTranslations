@@ -1,0 +1,4 @@
+{
+  "profile.gui.title": "Профиль",
+  "profile.user": "{name}\n§7Привилегия: {rank}\n§7Уровень: §b{level}\n§7Карма: §d{karma}\n§9Язык: {lang}"
+}

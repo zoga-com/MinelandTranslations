@@ -4,5 +4,6 @@
   "command.gm.creative": "§rТВОРЧЕСКИЙ",
   "command.gm.spectator": "§rНАБЛЮДАТЕЛЬ",
   "command.gm.survival": "§rВЫЖИВАНИЕ",
-  "command.module.reloaded": "§aМодуль \u0027$module\u0027 успешно перезагружен"
+  "command.service.reloaded": "§aСервис {service} успешно перезагружен",
+  "command.changepassword.usage": "/changepassword §eпароль §eпароль"
 }
