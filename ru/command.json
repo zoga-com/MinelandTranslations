@@ -1,9 +1,9 @@
 {
+  "command.changepassword.usage": "/changepassword §eпароль §eпароль",
   "command.gm.adventure": "§rПРИКЛЮЧЕНЧЕСКИЙ",
   "command.gm.changed": "§aИгровой режим изменён на $gamemode",
   "command.gm.creative": "§rТВОРЧЕСКИЙ",
   "command.gm.spectator": "§rНАБЛЮДАТЕЛЬ",
   "command.gm.survival": "§rВЫЖИВАНИЕ",
-  "command.service.reloaded": "§aСервис {service} успешно перезагружен",
-  "command.changepassword.usage": "/changepassword §eпароль §eпароль"
+  "command.service.reloaded": "§aСервис {service} успешно перезагружен"
 }

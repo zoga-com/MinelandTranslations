@@ -1,9 +1,9 @@
 {
-  "join_message.gui.title": "Сообщения при входе",
+  "join_message.carefully_joined_the_server": "аккуратно входит на сервер",
   "join_message.gui.profile_button": "§bСообщения при входе\n7Установить персональное сообщение\n§7вашего входа на сервер\n\n§7Доступно для §e§lVIP §7и выше!\n\n§e▶ Нажмите, чтобы открыть меню",
+  "join_message.gui.title": "Сообщения при входе",
   "join_message.joined_the_server": "зашёл на сервер",
   "join_message.rushed_on_the_server": "ворвался на сервер",
   "join_message.slowly_joins_the_server": "медленно входит",
-  "join_message.squeezed_in_the_server": "залез на сервер",
-  "join_message.carefully_joined_the_server": "аккуратно входит на сервер"
+  "join_message.squeezed_in_the_server": "залез на сервер"
 }
